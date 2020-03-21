@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
      <h1>路人乙写的登录</h1>
+     <h1>路人甲的注册模块</h1>
     </div>
   );
 }
